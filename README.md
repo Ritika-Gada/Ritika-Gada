@@ -1,6 +1,6 @@
 # Hi, I'm Ritika 👋
 
-Data Scientist with a background in Statistics and Big Data Analytics, currently exploring Data Analyst / Data Scientist roles where I can go deeper into hands-on technical work.
+Data Scientist with a background in Statistics and Big Data Analytics, currently exploring Data Scientist roles where I can go deeper into hands-on technical work.
 
 ## About Me
 
